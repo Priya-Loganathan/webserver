@@ -60,7 +60,7 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ![ex 2 output](https://user-images.githubusercontent.com/121166075/228425393-28078956-cc84-4344-8df5-68282eb87e2f.png)
-![ex 2 client output](https://user-images.githubusercontent.com/121166075/228425421-59d38dfd-c603-4522-9a8f-7dfa17631ec1.png)
+![ex 2 client output](https://user-images.githubusercontent.com/121166075/228425927-9b553113-32a9-4d11-8baf-82dc0f7d5f41.png)
 
 ## RESULT:
 The program is executed succesfully
